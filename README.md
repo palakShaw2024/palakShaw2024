@@ -1,33 +1,43 @@
 ### Hey there! 
 
-🚀 **Aspiring AI & Full-Stack Developer** | 🎨 **Frontend Enthusiast** | 🤖 **AI/ML Explorer**
+🚀 Data Science Learner | 💻 Full-Stack Developer | 🎨 Frontend Enthusiast
 
----
+💡 About Me
 
-###  About Me
--  Passionate about AI/ML, frontend magic, and building cool projects.
--  Currently working with **LangChain, FastAPI, and Supabase** to build AI-powered applications.
--  Learning and experimenting with **AI agents, FastAPI, and frontend design**.
--  Exploring the intersection of **tech & aesthetics**, blending creativity with functionality.
--  Aspiring to contribute to **open-source** and collaborate on innovative projects.
+I’m passionate about learning how data and design can work together to create smarter, more interactive experiences.
+Currently diving into the world of Data Science — exploring Python, SQL, Power BI, and the logic behind data-driven decision-making — while sharpening my web development skills.
+
+I love bringing ideas to life, whether it’s a web app, a dashboard, or a creative experiment with data.
+Curiosity keeps me building, breaking, and improving things every day.
 
 ---
 
 ###  Tech Stack
-#### **AI & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23121212.svg?style=for-the-badge&logo=chain&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### **Frontend & Other Tools**
+#### **Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### **Data-Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Machine Learning**
+**MySQL**
+
 
 
 ---
+🌱 What I’m Up To
+
+Learning how to tell stories through data 📈
+
+Building small analysis & web integration projects 💡
+
+Exploring ways to blend development with analytics 🔍
+
+
 
 ### 🌱 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
