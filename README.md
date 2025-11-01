@@ -1,6 +1,6 @@
 ### Hey there! 
 
-🚀 Data Science Learner | 💻 Full-Stack Developer | 🎨 Frontend Enthusiast
+🚀 Data Science Learner | 💻 Full-Stack Developer | 🎨 Backend Enthusiast
 
 💡 About Me
 
@@ -24,6 +24,7 @@ Curiosity keeps me building, breaking, and improving things every day.
 #### **Data-Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 **Machine Learning**
+
 **MySQL**
 
 
